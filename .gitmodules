@@ -23,3 +23,6 @@
 	path = lib/prb-test
 	branch = main
 	url = https://github.com/PaulRBerg/prb-test
+[submodule "lib/contracts"]
+	path = lib/contracts
+	url = https://github.com/berachain/contracts
