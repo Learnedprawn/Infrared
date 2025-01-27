@@ -21,7 +21,7 @@
 	url = https://github.com/transmissions11/solmate
 [submodule "lib/prb-test"]
 	path = lib/prb-test
-	branch = main
+	branch = release-v0
 	url = https://github.com/PaulRBerg/prb-test
 [submodule "lib/contracts"]
 	path = lib/contracts
