@@ -105,4 +105,3 @@ infraredVault.getReward();
 // Withdraw assets and harvest remaining rewards
 infraredVault.exit();
 ```
-# Infrared
